@@ -18,11 +18,11 @@ Linux için:
 cd kodluyoruz ilk repo
 code
 ```
-#Contributing
+# Contributing
 
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
-#License
+# License
 
 [MIT](https://opensource.org/licenses/MIT)
 
